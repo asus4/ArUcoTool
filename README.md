@@ -6,7 +6,7 @@ ArUco maker generator tool
 
 ## Download binary
 
-TBD
+[v0.1.0](https://github.com/asus4/ArUcoTool/releases/download/v0.1.0/ArUcoTool.app.zip)
 
 ## Build
 
